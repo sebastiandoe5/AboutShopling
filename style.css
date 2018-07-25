@@ -1,4 +1,18 @@
 .TopImage{
-    width: 40px;
-    height: 40px;
+    width: 100px;
+    height: 100px;
+}
+
+.header {
+    height: 100px;
+    width: 100%;
+}
+
+.line-break {
+    background-color: black;
+    height: 5px;
+}
+
+.Title {
+    font-size: 50px;
 }
