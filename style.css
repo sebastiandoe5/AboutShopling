@@ -1,14 +1,16 @@
 .TopImage{
-    width: 700px;
-    height: 200px;
+    width: 175.0000005px;
+    height: 50px;
 }
 
 .header {
-    height: 100px;
+    height: 50px;
     width: 100%;
+    padding-left: 100px;
+    padding-right: 100px;
 }
 
 .line-break {
-    background-color: black;
-    height: 5px;
+    background-color: lightgray;
+    height: 1px;
 }
