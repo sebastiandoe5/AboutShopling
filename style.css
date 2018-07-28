@@ -8,9 +8,15 @@
     width: 100%;
     padding-left: 100px;
     padding-right: 100px;
+    vertical-align: center;
+    display: inline-block;
 }
 
 .line-break {
     background-color: lightgray;
-    height: 1px;
+    height: 1.5px;
+}
+
+p {
+    font-family: 'Dosis', sans-serif;
 }
