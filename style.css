@@ -1,6 +1,7 @@
 .TopImage{
     width: 100px;
     height: 100px;
+    padding-top: -100px;
 }
 
 .header {
@@ -17,5 +18,4 @@
     font-size: 50px;
     font-family: 'Dosis', sans-serif;
     padding-left: 150px;
-    padding-top: -10px;
 }
