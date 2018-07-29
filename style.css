@@ -20,3 +20,12 @@
 p {
     font-family: 'Dosis', sans-serif;
 }
+
+.mainbody {
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.wis-title {
+    padding-left: 176px;
+}
